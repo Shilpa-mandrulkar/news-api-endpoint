@@ -1,0 +1,18 @@
+{
+  "name": "horeku-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "newsapi": "^2.4.1"
+  },
+  "engines": {
+    "node": "16.13.0"
+  }
+}
